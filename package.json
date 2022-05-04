@@ -1,0 +1,11 @@
+{
+  "name": "dono-contract",
+  "version": "1.0.0",
+  "description": "Make donations!",
+  "main": "index.js",
+  "author": "Halilu Remawa",
+  "license": "MIT",
+  "devDependencies": {
+    "near-sdk-as": "^3.2.3"
+  }
+}
